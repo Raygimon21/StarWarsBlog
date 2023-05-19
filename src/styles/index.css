@@ -1,3 +1,11 @@
 /* 
     General Styles
 */
+.logoImage{
+    width: 25%;
+    height: auto;
+}
+.characterImage{
+    width: 50%;
+    height: auto;
+}
